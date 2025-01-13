@@ -1,0 +1,5 @@
+PS C:\Users\Jibesh\Downloads\bts\Slicing\DSABM> g++ -o .\dsabm_list_fin.exe .\dsabm_list_fin.cpp
+PS C:\Users\Jibesh\Downloads\bts\Slicing\DSABM> .\dsabm_list_fin.exe
+Enter the slice criterion (node): R12
+Dynamic Slice Set corresponding criterion R12 is:
+A7 R2 A2 R10 R6 A11 P3 R11 P1 A4 J1 A3 R4 A13 R3 
